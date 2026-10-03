@@ -42,6 +42,8 @@ export default function ProductCard({ product, onAdd, onLike, isLiked }) {
           >
             <FiShoppingCart /> Add to Cart
           </button>
+
+          
         </div>
       </div>
     </div>
